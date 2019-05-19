@@ -150,7 +150,12 @@ header{
   text-align: center;
   border-right: 1px solid #ccc;
   text-decoration: none;
-  font: 1em "Trebchet MS", Arial, sans-serif; 
+  font: 1em "Trebchet MS", Arial, sans-serif;
+}
+
+#navbar nav a.selected{
+  background: #333;
+  color: white;
 }
 
 
