@@ -138,7 +138,10 @@ header{
 
 #navbar nav {
   border-left: 1px solid #ccc;
-  
+}
+
+#navbar nav a {
+  font-family: 'Clicker Script', cursive;
 }
 
 
