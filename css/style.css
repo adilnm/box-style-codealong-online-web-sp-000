@@ -137,7 +137,8 @@ header{
 }
 
 #navbar nav {
-  border-left: 
+  border-left: 1px solid #ccc;
+  
 }
 
 
