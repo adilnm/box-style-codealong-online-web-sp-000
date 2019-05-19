@@ -338,6 +338,9 @@ background: linear-gradient(
 ); /* W3C */
 }
 
+#details{
+    border-top: 1px solid white;
+}
 
 #details div {
   height: 221px;
