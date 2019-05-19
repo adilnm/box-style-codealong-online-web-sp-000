@@ -143,6 +143,7 @@ header{
 #navbar nav a {
   display: inline-block;
   width: 16.666667%;
+  margin: 0;
 }
 
 
